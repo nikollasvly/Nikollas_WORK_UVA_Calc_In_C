@@ -1,0 +1,3 @@
+C:/Users/nikol/CLionProjects/Work_UVA_AVA1_CALC/cmake-build-debug/CMakeFiles/Work_UVA_AVA1_CALC.dir
+C:/Users/nikol/CLionProjects/Work_UVA_AVA1_CALC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikol/CLionProjects/Work_UVA_AVA1_CALC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,2 +1,2 @@
-# Nikollas_WORK_UVA_Calc_In_C
+# Nikollas Verl de Miranda
 Calculadora em C para universidade 
